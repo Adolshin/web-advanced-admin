@@ -1,7 +1,7 @@
 <template lang="pug">
   header
     h1.title-text Панель администрирования
-    a(href="").return-back Вернуться на сайт
+    a(href="https://adolshin.github.io/web-advanced/build").return-back Вернуться на сайт
 </template>
 
 <script>

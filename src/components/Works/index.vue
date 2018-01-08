@@ -1,8 +1,8 @@
 <template lang="pug">
   .about
-    h2.title Страница "Мои работ"
+    h2.title Страница "Мои работы"
     .form
-      h3.form-title Добавить работа
+      h3.form-title Добавить работу
       .row
         app-input(
           placeholder="Название проекта"
